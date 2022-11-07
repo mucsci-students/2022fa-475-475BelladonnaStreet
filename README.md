@@ -1,5 +1,5 @@
 # 2022fa-475-475BelladonnaStreet
-A letter with no return address is mailed to you. Mysteriously, it invites you to 475 Belladonna Street and implies it now belongs to you. Will you follow the invitation? What awaits you in this house?
+A letter in an unmarked envelope appears in your mailbox. Mysteriously, it invites you to an address far outside town -- 475 Belladonna Street -- and implies it now belongs to you. Will you follow the invitation? What awaits you in this house?
 
 A series of puzzles lie between you and the mystery of 475 Belladonna Street. It's yours to claim, if you can find your way through.
 
